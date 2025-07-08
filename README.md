@@ -60,15 +60,6 @@ Import databases in MySQL Workbench
 
 ## 📂 Exercise Catalog
 
-### 📊 Progress Tracking
-
-Level	Requirement	Status:
-
-🥉 1-	37 queries (20 university)
-
-🥈 2-	38-56 queries (20 university)
-
-🥇 3-	57+ queries (20 university)
 
 <details> <summary><strong>🛒 Store Database </strong></summary>
 
@@ -100,6 +91,17 @@ Aggregation (COUNT, SUM)
 LEFT/RIGHT JOIN differences
 
 </details>
+
+
+## 📊 Progress Tracking
+
+Level	Requirement	Status:
+
+🥉 1 --> 37 queries (20 university)
+
+🥈 2 -->	38-56 queries (20 university)
+
+🥇 3 -->	57+ queries (20 university)
 
 
 ## 🎯 Learning Goals
