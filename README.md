@@ -64,13 +64,14 @@ Import databases in MySQL Workbench
 
 Level	Requirement	Status:
 
-🥉 1	37 queries (20 university)
+🥉 1-	37 queries (20 university)
 
-🥈 2	38-56 queries (20 university)
+🥈 2-	38-56 queries (20 university)
 
-🥇 3	57+ queries (20 university)
+🥇 3-	57+ queries (20 university)
 
-<details> <summary><strong>🛒 Store Database (37 Queries)</strong></summary>
+<details> <summary><strong>🛒 Store Database </strong></summary>
+
   
 Core Concepts:
 
@@ -84,7 +85,7 @@ JOIN operations (INNER, LEFT)
 
 Subqueries and comparative filters
 
-</details><details> <summary><strong>🎓 University Database (20+ Queries)</strong></summary>
+</details><details> <summary><strong>🎓 University Database </strong></summary>
 
   Core Concepts:
 
