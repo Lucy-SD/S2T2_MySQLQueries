@@ -153,4 +153,4 @@ User: root (default)
 
 No password (default)
 
-## 🚀 Thanks for Visiting ¡!
+## 🚀 Thanks for Visiting = )
